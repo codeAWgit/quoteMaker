@@ -1,0 +1,18 @@
+body{
+  margin-top: 75px;
+  background-color: #dddddd;
+}
+
+.main{
+  padding: 20px;
+  border-style: solid;
+  border-radius: 5px;
+}
+
+.quote{
+  padding-bottom: 10px;
+}
+
+#tbutton{
+  color: #000088;
+}
